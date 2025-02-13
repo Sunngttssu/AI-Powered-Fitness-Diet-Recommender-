@@ -68,4 +68,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 * Streamlit for the UI framework
 * Cohere for the AI-powered recommendations
 
+
 Start your fitness journey today with Enhanced Fitness and Diet Recommender! 🚀
