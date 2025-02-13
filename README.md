@@ -30,7 +30,7 @@ Ensure you have Python 3.7+ installed on your system.
 
 2. Install the required dependencies:
 
-    !pip install streamlit cohere
+    <blue>!pip install streamlit cohere</blue>
 
 3. Run the application:
 
