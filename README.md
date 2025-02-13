@@ -25,9 +25,9 @@ Ensure you have Python 3.7+ installed on your system.
 ### Steps
 
 1. Clone the repository:
-|-------------------------------------------------------------------------------|
-| git clone https://github.com/Sunngttssu/AI-Powered-Fitness-Diet-Recommender-  |
-|-------------------------------------------------------------------------------|
+
+git clone https://github.com/Sunngttssu/AI-Powered-Fitness-Diet-Recommender-
+
 2. Install the required dependencies:
 
 pip install streamlit cohere
