@@ -1,4 +1,4 @@
-# Enhanced Fitness and Diet Recommender
+# AI Powered Fitness and Diet Recommender
 
 ## Overview
 
